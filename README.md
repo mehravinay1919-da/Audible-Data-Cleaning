@@ -59,8 +59,8 @@ Clean and standardised audiobook data supports more reliable reporting, improved
 
 ## Project Files
 
-- `Audible_Data_Cleaning.pdf` — Project presentation documenting the business context, nine cleaning tasks, transformation steps, and before-and-after examples.
-- `Audible_Data_Cleaning.xlsx` — Include this file if you have the Excel workbook containing the Power Query transformations.
+- `Audible_Data_Cleaning.pdf` - Project presentation documenting the business context, nine cleaning tasks, transformation steps, and before-and-after examples.
+- `Audible_Data_Cleaning.xlsx` - Include this file if you have the Excel workbook containing the Power Query transformations.
 
 ## How to Review the Project
 
