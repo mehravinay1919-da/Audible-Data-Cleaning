@@ -68,6 +68,10 @@ Clean and standardised audiobook data supports more reliable reporting, improved
 2. Review the nine transformations and their before-and-after examples.
 3. If the Excel workbook is included, inspect the Power Query steps to understand how the transformations were implemented.
 
+<img width="1170" height="662" alt="image" src="https://github.com/user-attachments/assets/45391ed9-59aa-4fd8-8dcc-4e578781d5d7" />
+
+<img width="1167" height="662" alt="image" src="https://github.com/user-attachments/assets/31b7d390-c912-49c9-8eb3-fc7fac86db6c" />
+
 ## Disclaimer
 
 This is an independent data-cleaning portfolio project for learning and demonstrating Excel Power Query skills. The project focuses on data preparation rather than predictive modelling or dashboard development.
